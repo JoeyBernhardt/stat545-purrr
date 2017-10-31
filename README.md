@@ -4,4 +4,4 @@ Materials for STAT545 cm103 -- purrr basics
 
 Other resources
 
-[Mara Averick's purrr links](https://maraaverick.rbind.io/2017/09/purrr-ty-posts/)
+* [Mara Averick's purrr links](https://maraaverick.rbind.io/2017/09/purrr-ty-posts/)
